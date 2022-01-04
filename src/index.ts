@@ -11,7 +11,7 @@ const today = new Date();
 const time = today.getHours() + ":" + today.getMinutes();
 
 // open popup with current time
-// grep says clockPopup is somewhere in map.js 
+// clockPopup is a rectangle in map.js 
 WA.room.onEnterZone('clock', () => {
     currentPopup =  WA.ui.openPopup("clockPopup","It's " + time,[]);
 })
