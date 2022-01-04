@@ -11,13 +11,18 @@ const today = new Date();
 const time = today.getHours() + ":" + today.getMinutes();
 
 // open popup with current time
-// no idea what clockPopup refers to
+// grep says clockPopup is somewhere in map.js 
 WA.room.onEnterZone('clock', () => {
     currentPopup =  WA.ui.openPopup("clockPopup","It's " + time,[]);
 })
 
-// close popup when leaving zone 'clock'
+WA.room.onEnterZone('hello', () => {
+    currentPopup =  WA.ui.openPopup("helloPopup","Hello",[]);
+})
+
+// close popup when leaving zones
 WA.room.onLeaveZone('clock', closePopUp)
+WA.room.onLeaveZone('hello', closePopUp)
 
 // close popup and set currentPopup to undefined
 function closePopUp(){
