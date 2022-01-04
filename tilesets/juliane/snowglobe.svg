@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="416"
+   height="448.00006"
+   viewBox="0 0 110.06666 118.53335"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="snowglobe.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5497676"
+     inkscape:cx="200.67525"
+     inkscape:cy="519.75535"
+     inkscape:window-width="1183"
+     inkscape:window-height="777"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19242">
+      <stop
+         style="stop-color:#002255;stop-opacity:1;"
+         offset="0"
+         id="stop19238" />
+      <stop
+         style="stop-color:#002255;stop-opacity:0;"
+         offset="1"
+         id="stop19240" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5497-9">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5516" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5518" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5497-9"
+       id="linearGradient5982"
+       x1="24.83621"
+       y1="95.492104"
+       x2="181.2494"
+       y2="95.492104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59860024,0,0,0.60932601,-14.822885,-10.435281)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19242"
+       id="linearGradient19244"
+       x1="-6.3341669e-07"
+       y1="47.826343"
+       x2="93.628979"
+       y2="47.826343"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5497-9"
+       id="linearGradient20409"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15837963,0,0,0.16121749,-14.679509,-10.167263)"
+       x1="159.23251"
+       y1="640.10156"
+       x2="720.56604"
+       y2="640.10156" />
+  </defs>
+  <g
+     inkscape:label="globe"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.288271,-16.453607)"
+     style="display:inline">
+    <path
+       id="path868-3-8"
+       style="fill:#c87137;fill-opacity:1;stroke:#000000;stroke-width:0.578847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 37.537914,104.5477 v 22.82013 a 97.271742,77.273577 0 0 0 35.258347,7.16474 97.271742,77.273577 0 0 0 2.957233,0.10296 97.271742,77.273577 0 0 0 3.037371,0.062 97.271742,77.273577 0 0 0 1.274153,-0.0248 97.271742,77.273577 0 0 0 6.183304,-0.22638 97.271742,77.273577 0 0 0 1.587194,-0.0919 97.271742,77.273577 0 0 0 8.057563,-0.88575 97.271742,77.273577 0 0 0 0.453178,-0.0617 97.271742,77.273577 0 0 0 23.392233,-6.03968 V 104.5477 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_globe.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path868-3-8-9"
+       style="display:inline;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.578847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 49.623158,117.21333 -2.128035,10.03763 c 2.257083,0.60183 4.540036,1.13821 6.84506,1.60662 5.902552,1.19948 11.946948,1.9584 18.054711,2.26085 0.985102,0.0462 1.971029,0.0805 2.957444,0.10283 1.012044,0.0332 2.024681,0.0539 3.037541,0.062 0.424672,-0.006 0.849286,-0.0143 1.273823,-0.0248 2.0637,-0.0233 4.125947,-0.0988 6.183601,-0.22634 0.529301,-0.0272 1.058315,-0.0579 1.586984,-0.092 2.700165,-0.20587 5.388313,-0.50137 8.057388,-0.88573 0.15113,-0.0202 0.302199,-0.0407 0.453202,-0.0615 4.043884,-0.60943 8.031193,-1.42165 11.937773,-2.43034 0.3677,-0.0949 0.73446,-0.192 1.10071,-0.29042 l -2.127,-10.0335 c -3.57786,0.88914 -7.221038,1.61476 -10.911483,2.17093 -0.0755,0.0104 -0.150807,0.0207 -0.226341,0.031 -0.07553,0.0102 -0.151296,0.0204 -0.226861,0.0305 -2.669075,0.38436 -5.357223,0.67986 -8.057388,0.88573 -0.528669,0.0341 -1.057683,0.0648 -1.586984,0.092 -2.057654,0.12755 -4.119901,0.20304 -6.183601,0.22635 -0.424537,0.0105 -0.849151,0.0187 -1.273823,0.0248 -1.01286,-0.008 -2.025497,-0.0288 -3.037541,-0.062 -0.986415,-0.0224 -1.972342,-0.0566 -2.957444,-0.10283 -6.107763,-0.30244 -12.152159,-1.06138 -18.054711,-2.26085 -1.58328,-0.32174 -3.155672,-0.67609 -4.717025,-1.06092 z" />
+    <path
+       id="path868-3"
+       style="fill:#002255;stroke:#000000;stroke-width:0.578847;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 78.485241,16.74303 A 53.907755,54.873679 0 0 0 24.577694,71.616812 53.907755,54.873679 0 0 0 42.399116,112.35069 97.271742,77.273584 0 0 0 78.485241,117.91143 97.271742,77.273584 0 0 0 114.57167,112.35037 53.907755,54.873679 0 0 0 132.39309,71.616812 53.907755,54.873679 0 0 0 78.485241,16.74303 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_globe.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5900"
+       transform="translate(0,-26.458334)">
+      <path
+         d="m 53.427743,146.71434 3.457212,0.70209 -0.175521,0.8643 0.864302,0.17552 -0.175521,0.8643 -1.728605,-0.35104 0.175521,-0.8643 -1.728606,-0.35104 -0.877605,4.32151 1.728605,0.35104 0.175521,-0.8643 1.728606,0.35104 -0.175521,0.86431 -0.864303,-0.17553 -0.175521,0.86431 -3.457211,-0.70209 0.175521,-0.8643 -0.864303,-0.17552 0.877605,-4.32151 0.864303,0.17552 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5802" />
+      <path
+         d="m 58.300167,147.71162 1.744456,0.26111 -0.261112,1.74446 2.616684,0.39166 -0.130556,0.87223 0.872228,0.13056 -0.522225,3.48891 -1.744457,-0.26111 0.522226,-3.48891 -1.744457,-0.26112 -0.522225,3.48892 -1.744457,-0.26112 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5804" />
+      <path
+         d="m 64.935403,149.54012 1.753888,0.18759 -0.09379,0.87694 -1.753887,-0.18758 z m -1.064527,1.6601 2.630831,0.28137 -0.281376,2.63083 0.876944,0.0938 -0.09379,0.87694 -3.507775,-0.37517 0.09379,-0.87694 0.876944,0.0938 0.187584,-1.75389 -0.876944,-0.0938 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5806" />
+      <path
+         d="m 67.469774,148.93734 2.638256,0.20012 -0.400237,5.27652 0.879419,0.0667 -0.06671,0.87942 -3.517674,-0.26682 0.06671,-0.87942 0.879418,0.0667 0.333531,-4.39709 -0.879419,-0.0667 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5808" />
+      <path
+         d="m 70.787085,149.21175 2.643353,0.11459 -0.229182,5.28671 0.881118,0.0382 -0.0382,0.88111 -3.52447,-0.15278 0.0382,-0.88112 0.881117,0.0382 0.190985,-4.40559 -0.881118,-0.0382 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5810" />
+      <path
+         d="m 75.830174,149.43961 3.527756,0.0131 -0.0033,0.88194 0.881939,0.003 -0.0033,0.88194 -1.763878,-0.007 0.0033,-0.88194 -1.763877,-0.007 -0.01643,4.4097 1.763878,0.007 0.0066,-1.76388 -0.881939,-0.003 0.0033,-0.88193 2.645817,0.01 -0.0099,2.64582 -0.881938,-0.003 -0.0033,0.88194 -3.527755,-0.0131 0.0033,-0.88194 -0.881939,-0.003 0.01643,-4.40969 0.881939,0.003 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5812" />
+      <path
+         d="m 80.845817,149.42704 2.643606,-0.10856 0.217132,5.28721 0.881202,-0.0362 0.03619,0.8812 -3.524809,0.14476 -0.03619,-0.8812 0.881202,-0.0362 -0.180943,-4.40601 -0.881202,0.0362 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5814" />
+      <path
+         d="m 86.023142,150.97575 3.515777,-0.29077 0.07269,0.87895 0.878944,-0.0727 0.218073,2.63683 -0.878944,0.0727 0.07269,0.87894 -3.515777,0.29077 -0.07269,-0.87895 -0.878945,0.0727 -0.218073,-2.63684 0.878945,-0.0727 z m 0.951635,0.80625 0.218073,2.63683 1.757888,-0.14538 -0.218073,-2.63683 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5816" />
+      <path
+         d="m 90.940067,149.68303 1.747447,-0.24029 0.240282,1.74745 2.621171,-0.36042 0.120141,0.87372 0.873724,-0.12014 0.240281,1.74745 -0.873723,0.12014 0.12014,0.87372 -4.368618,0.60071 z m 2.110344,2.37359 0.240751,1.75086 1.754273,-0.24122 -0.24075,-1.75086 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5818" />
+      <path
+         d="m 97.807611,149.58751 3.463659,-0.66954 0.16739,0.86591 0.86591,-0.16738 0.33477,1.73183 -3.463656,0.66954 0.167386,0.86591 2.59775,-0.50215 0.16738,0.86591 -3.463659,0.66955 -0.167386,-0.86592 -0.865915,0.16739 -0.502158,-2.59775 0.865915,-0.16738 z m 1.033301,0.69853 0.167386,0.86591 1.731832,-0.33477 -0.16739,-0.86591 z"
+         style="font-size:7.05556px;line-height:1.25;font-family:'Monkey Island 1990 refined';-inkscape-font-specification:'Monkey Island 1990 refined';stroke-width:0.264583"
+         id="path5820" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="snow"
+     style="display:inline">
+    <path
+       id="path2250-0"
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.159792px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.341832,68.263479 c -2.78627,0.02906 -5.523717,0.539747 -7.775457,0.607713 -4.503467,0.135932 -7.235394,-0.580654 -11.166684,-0.0055 -3.931277,0.575125 -8.121134,2.63987 -11.940951,4.235429 -9.813227,4.099033 -13.296844,4.594392 -16.521891,12.19049 -0.28928,0.64749 -0.4517,1.29958 -0.49494,1.93618 a 53.907755,54.873679 0 0 0 4.431227,5.42376 c 0.0279,0.008 0.0594,0.012 0.0875,0.0195 a 53.907755,54.873679 0 0 1 -4.300067,-5.36077 c 0.042,-0.0188 0.0861,-0.0359 0.13363,-0.0504 3.845387,-1.16781 8.411454,-1.81329 12.091291,0.70879 3.66904,2.5147 8.495607,2.01964 12.585294,1.00323 3.842597,-0.95503 8.033797,-3.11937 11.830834,-0.99536 5.006227,2.80044 10.923704,4.48444 16.689871,2.84241 4.279107,-1.21856 8.032184,-4.18978 12.565491,-4.01753 3.03996,0.11553 5.916377,1.14323 8.931137,1.92328 3.538307,0.91551 7.498764,-0.18326 10.120804,-2.72716 0.83069,-0.80593 2.081374,-1.29921 3.040158,-1.3017 0.24869,-5.8e-4 0.476117,0.0335 0.673097,0.10202 a 53.907755,54.873679 0 0 1 -0.971924,1.45629 c 0.0176,-0.005 0.0373,-0.0134 0.0547,-0.0185 a 53.907755,54.873679 0 0 0 1.751748,-2.73093 C 99.394176,81.186471 97.239918,78.122533 95.534631,75.808154 93.179341,72.611596 88.739714,73.407088 83.867457,72.614973 78.99519,71.822789 71.304563,74.260945 66.410116,70.544888 63.962909,68.68686 61.128009,68.234529 58.341732,68.263603 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_snow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2211-2"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient20409);fill-opacity:1;stroke:#ffffff;stroke-width:0.159792px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 98.649123,84.696021 c -0.95879,0.002 -2.20947,0.49578 -3.04016,1.3017 -2.622042,2.5439 -6.582499,3.64267 -10.120806,2.72716 -3.01476,-0.78004 -5.891177,-1.80774 -8.931137,-1.92328 -4.533307,-0.17225 -8.286384,2.79896 -12.565491,4.01753 -5.766167,1.64204 -11.683644,-0.0419 -16.689871,-2.84241 -3.797037,-2.12402 -7.988237,0.0401 -11.830834,0.99536 -4.089687,1.01639 -8.916244,1.51147 -12.585294,-1.00322 -3.679837,-2.52208 -8.245904,-1.87662 -12.091291,-0.70879 -0.0475,0.0144 -0.0916,0.0316 -0.13363,0.0504 a 53.907755,54.873679 0 0 0 7.348254,8.48944 97.271742,77.273577 0 0 0 36.086102,5.560729 97.271742,77.273577 0 0 0 36.086409,-5.561059 53.907755,54.873679 0 0 0 9.140839,-11.00152 c -0.19698,-0.0685 -0.4244,-0.10267 -0.67309,-0.102 z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_snow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="highlights"
+     style="display:inline">
+    <path
+       id="path868-3-0-6"
+       style="display:inline;opacity:1;mix-blend-mode:soft-light;fill:#ffffff;fill-opacity:0.0884615;stroke:none;stroke-width:0.764154;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 53.951624,-0.07579731 A 53.907755,54.873679 0 0 0 2.4773087,38.657026 53.907755,54.873679 0 0 0 67.364089,35.824701 53.907755,54.873679 0 0 0 84.568383,9.6504657 53.907755,54.873679 0 0 0 53.951624,-0.07579731 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1821"
+       style="fill:#f9f9f9;stroke-width:0.275093;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-0.005088188"
+       inkscape:transform-center-y="0.078537192"
+       d="m 26.587457,14.024259 3.384804,-0.29942 -5.676568,-5.6195088 6.053209,5.2184408 0.07267,-3.7372517 0.479564,3.7178227 5.665292,-5.6306865 -5.260959,6.0042805 3.46341,0.141869 -3.443823,0.405901 5.676569,5.61951 -6.053207,-5.21844 0.03896,3.687187 -0.59119,-3.667762 -4.681211,4.309228 4.276876,-4.682822 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2128"
+       style="fill:#f9f9f9;stroke-width:0.233488;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-0.53223832"
+       inkscape:transform-center-y="0.22237847"
+       d="m 9.9420943,71.061779 2.8596207,0.843708 -2.664395,-6.006032 3.110637,5.824113 1.360368,-2.779893 -0.904066,2.939616 6.572245,-2.434852 -6.373173,2.842641 2.769961,1.199473 -2.944738,-0.782481 2.6644,6.006042 -3.11064,-5.824111 -1.252072,2.777583 0.79577,-2.937312 -5.3110616,1.754387 5.1119896,-2.162172 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2130"
+       style="fill:#f9f9f9;stroke-width:0.479378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-0.0087526524"
+       inkscape:transform-center-y="0.13864058"
+       d="m 59.795341,28.252166 5.822528,-0.528566 -9.76482,-9.920051 10.41272,9.212049 0.125,-6.59732 0.82494,6.56303 9.745424,-9.939792 -9.049884,10.599289 5.957747,0.250438 -5.924057,0.716539 9.764824,9.920052 -10.412714,-9.212053 0.067,6.508955 -1.01697,-6.474667 -8.052607,7.607032 7.357077,-8.266532 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2132"
+       style="fill:#f9f9f9;stroke-width:0.357747;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-0.79676875"
+       inkscape:transform-center-y="0.33196102"
+       d="m 81.083813,20.219943 4.03194,1.929145 -2.87717,-10.067856 3.559177,9.872063 2.45408,-4.122641 -1.81495,4.470226 10.003544,-2.496298 -9.781674,3.183643 3.84113,2.474241 -4.16648,-1.849767 2.87715,10.06786 -3.559177,-9.872064 -2.29558,4.141427 1.65646,-4.488996 -8.04797,1.67942 7.8261,-2.366768 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2134"
+       style="fill:#f9f9f9;stroke-width:0.275093;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       inkscape:transform-center-x="-0.61100801"
+       inkscape:transform-center-y="0.22454011"
+       d="m 98.207164,56.390727 2.736696,2.049552 -0.61962,-8.035518 1.16262,7.98734 2.47825,-2.758385 -2.05085,3.11487 7.90706,-0.422597 -7.84562,0.97493 2.50951,2.433838 -2.85003,-2.009229 0.6196,8.035526 -1.16262,-7.98735 -2.361931,2.795812 1.934531,-3.152287 -6.310873,0.09125 6.249443,-0.643579 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1541"
+       style="mix-blend-mode:soft-light;fill:url(#linearGradient5982);fill-opacity:1;stroke:none;stroke-width:0.764154;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 53.951624,-0.07579763 A 53.907755,54.873679 0 0 0 0.04407696,54.797978 53.907755,54.873679 0 0 0 17.865499,95.531862 a 97.271742,77.273584 0 0 0 0.153123,0.045 A 53.907755,54.873679 0 0 1 3.2116677,58.022313 53.907755,54.873679 0 0 1 57.119222,3.1485261 53.907755,54.873679 0 0 1 93.673057,17.704076 53.907755,54.873679 0 0 0 53.951624,-0.07582263 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1541-9"
+       style="display:inline;mix-blend-mode:soft-light;fill:url(#linearGradient19244);fill-opacity:1;stroke:none;stroke-width:0.764154;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 53.907549,2.4504384e-5 A 53.907755,54.873679 0 0 0 -6.3333333e-7,54.8738 53.907755,54.873679 0 0 0 17.821422,95.607686 a 97.271742,77.273584 0 0 0 0.153123,0.045 A 53.907755,54.873679 0 0 1 3.1675905,58.098135 53.907755,54.873679 0 0 1 57.075149,3.2243475 53.907755,54.873679 0 0 1 93.628979,17.779898 53.907755,54.873679 0 0 0 53.907549,-4.9561633e-7 Z"
+       inkscape:export-filename="/Users/julianeclausen/snowglobe_highlights.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
